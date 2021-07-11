@@ -2,7 +2,6 @@
 - 👀 I’m interested in Artificial Intelligence, Blockchain, BigData and Coud computing.
 - 🌱 I’m currently learning Haskell, Neural Networks, Pyspark, AWS, Blockchain, Reinforcement Learning.
 - 💞️ I’m looking to collaborate on research group of Artificial Neural Network at College and as I learn I intend to share with web community .
-- 📫 How to reach me lucasrangel11@hotmail.com
 
 ## Connect with me
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/lucas-rangel-freire-199a18179/)
@@ -14,7 +13,8 @@
 <img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <br>
 <br>
-##Contact
+
+How to reach me
 <br>
 <img align="left" alt="lucasrangel11@hotmail.com" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 lucasrangel11@hotmail.com
