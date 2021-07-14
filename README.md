@@ -15,7 +15,7 @@
 <br>
 <br>
 
-##How to reach me
+## How to reach me 
 <br>
 <img align="left" alt="lucasrangel11@hotmail.com" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 lucasrangel11@hotmail.com
